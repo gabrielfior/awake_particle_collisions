@@ -1,0 +1,13 @@
+#README
+
+Energy lost by ALL ions of H in Si (1e3 ions)
+1.047e-05 J
+Mean energy lost by ion of H in Si -
+1.047e-08 J
+Mean Distance navigated (mean of list_dicts) list_dists[1][1]
+23.34 um
+Mean distance between collisions (mean of dists) np.mean(dists)
+91.3 um
+
+
+

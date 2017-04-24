@@ -1,0 +1,5003 @@
+{
+    "344": {
+        "final_energy": 296050.0, 
+        "elec_stop": 0.93378899999999976, 
+        "energy_lost": 272.65108068220002
+    }, 
+    "345": {
+        "final_energy": 296800.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "346": {
+        "final_energy": 296850.0, 
+        "elec_stop": 1.0371559999999997, 
+        "energy_lost": 275.7279506822
+    }, 
+    "347": {
+        "final_energy": 296210.0, 
+        "elec_stop": 0.068939, 
+        "energy_lost": 139.55680000000001
+    }, 
+    "340": {
+        "final_energy": 296260.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "341": {
+        "final_energy": 296270.0, 
+        "elec_stop": 0.068932999999999994, 
+        "energy_lost": 3.1472700000000002
+    }, 
+    "342": {
+        "final_energy": 296530.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "343": {
+        "final_energy": 296370.0, 
+        "elec_stop": 0.034692000000000001, 
+        "energy_lost": 0.0076819821999999996
+    }, 
+    "810": {
+        "final_energy": 297500.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "811": {
+        "final_energy": 296220.0, 
+        "elec_stop": 0.13805900000000002, 
+        "energy_lost": 3.0845519821999998
+    }, 
+    "812": {
+        "final_energy": 297180.0, 
+        "elec_stop": 0.034467999999999999, 
+        "energy_lost": 2.2768000000000002
+    }, 
+    "813": {
+        "final_energy": 296580.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "348": {
+        "final_energy": 297220.0, 
+        "elec_stop": 0.10336699999999999, 
+        "energy_lost": 3.07687
+    }, 
+    "349": {
+        "final_energy": 296040.0, 
+        "elec_stop": 0.068939, 
+        "energy_lost": 139.55680000000001
+    }, 
+    "816": {
+        "final_energy": 295790.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "817": {
+        "final_energy": 296770.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "737": {
+        "final_energy": 296840.0, 
+        "elec_stop": 0.17230599999999999, 
+        "energy_lost": 142.63367
+    }, 
+    "719": {
+        "final_energy": 295970.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "718": {
+        "final_energy": 296260.0, 
+        "elec_stop": 0.034445999999999997, 
+        "energy_lost": 0.0
+    }, 
+    "717": {
+        "final_energy": 296320.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "716": {
+        "final_energy": 297260.0, 
+        "elec_stop": 0.06892100000000001, 
+        "energy_lost": 3.07687
+    }, 
+    "715": {
+        "final_energy": 296210.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "714": {
+        "final_energy": 296390.0, 
+        "elec_stop": 0.034456000000000001, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "713": {
+        "final_energy": 296190.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "712": {
+        "final_energy": 295810.0, 
+        "elec_stop": 0.034456000000000001, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "711": {
+        "final_energy": 296540.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "710": {
+        "final_energy": 297690.0, 
+        "elec_stop": 0.034445999999999997, 
+        "energy_lost": 0.0
+    }, 
+    "421": {
+        "final_energy": 296020.0, 
+        "elec_stop": 0.068939, 
+        "energy_lost": 139.55680000000001
+    }, 
+    "129": {
+        "final_energy": 296770.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "420": {
+        "final_energy": 296530.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "423": {
+        "final_energy": 296090.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "422": {
+        "final_energy": 296330.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "425": {
+        "final_energy": 296960.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "619": {
+        "final_energy": 296610.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "424": {
+        "final_energy": 296670.0, 
+        "elec_stop": 0.27582600000000002, 
+        "energy_lost": 152.39587000000003
+    }, 
+    "427": {
+        "final_energy": 296780.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "298": {
+        "final_energy": 296370.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "299": {
+        "final_energy": 296250.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "296": {
+        "final_energy": 297790.0, 
+        "elec_stop": 0.13783499999999999, 
+        "energy_lost": 5.3536700000000002
+    }, 
+    "297": {
+        "final_energy": 296250.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "294": {
+        "final_energy": 296340.0, 
+        "elec_stop": 0.068939, 
+        "energy_lost": 139.55680000000001
+    }, 
+    "295": {
+        "final_energy": 296810.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "292": {
+        "final_energy": 296210.0, 
+        "elec_stop": 0.10338900000000001, 
+        "energy_lost": 5.3536700000000002
+    }, 
+    "293": {
+        "final_energy": 296280.0, 
+        "elec_stop": 0.034471000000000002, 
+        "energy_lost": 137.28
+    }, 
+    "290": {
+        "final_energy": 296020.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "291": {
+        "final_energy": 296120.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "591": {
+        "final_energy": 296720.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "590": {
+        "final_energy": 295530.0, 
+        "elec_stop": 0.10338900000000001, 
+        "energy_lost": 5.3536700000000002
+    }, 
+    "593": {
+        "final_energy": 296670.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "592": {
+        "final_energy": 297060.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "595": {
+        "final_energy": 297010.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 2.8220000000000003e-07
+    }, 
+    "594": {
+        "final_energy": 295660.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "597": {
+        "final_energy": 296920.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "596": {
+        "final_energy": 296620.0, 
+        "elec_stop": 0.034445999999999997, 
+        "energy_lost": 2.8220000000000003e-07
+    }, 
+    "195": {
+        "final_energy": 296060.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "194": {
+        "final_energy": 297120.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "197": {
+        "final_energy": 296310.0, 
+        "elec_stop": 0.06892100000000001, 
+        "energy_lost": 3.07687
+    }, 
+    "196": {
+        "final_energy": 296490.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "191": {
+        "final_energy": 296130.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "190": {
+        "final_energy": 296180.0, 
+        "elec_stop": 0.10338900000000001, 
+        "energy_lost": 5.3536700000000002
+    }, 
+    "193": {
+        "final_energy": 296610.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "192": {
+        "final_energy": 295910.0, 
+        "elec_stop": 0.13805900000000002, 
+        "energy_lost": 3.0845519821999998
+    }, 
+    "270": {
+        "final_energy": 296690.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "271": {
+        "final_energy": 296530.0, 
+        "elec_stop": 0.034445999999999997, 
+        "energy_lost": 2.8220000000000003e-07
+    }, 
+    "272": {
+        "final_energy": 296420.0, 
+        "elec_stop": 0.06892100000000001, 
+        "energy_lost": 3.07687
+    }, 
+    "273": {
+        "final_energy": 297220.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "274": {
+        "final_energy": 297240.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "275": {
+        "final_energy": 296680.0, 
+        "elec_stop": 0.034445999999999997, 
+        "energy_lost": 2.8220000000000003e-07
+    }, 
+    "276": {
+        "final_energy": 297130.0, 
+        "elec_stop": 0.034456000000000001, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "277": {
+        "final_energy": 297520.0, 
+        "elec_stop": 0.13788, 
+        "energy_lost": 143.44006999999999
+    }, 
+    "278": {
+        "final_energy": 296840.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "279": {
+        "final_energy": 296170.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "569": {
+        "final_energy": 296250.0, 
+        "elec_stop": 0.13783499999999999, 
+        "energy_lost": 5.3536702821999995
+    }, 
+    "497": {
+        "final_energy": 297480.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "524": {
+        "final_energy": 296880.0, 
+        "elec_stop": 0.13783499999999999, 
+        "energy_lost": 5.3536700000000002
+    }, 
+    "525": {
+        "final_energy": 297410.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "526": {
+        "final_energy": 296550.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "527": {
+        "final_energy": 297030.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "520": {
+        "final_energy": 296450.0, 
+        "elec_stop": 0.27660300000000004, 
+        "energy_lost": 24.459750682200003
+    }, 
+    "521": {
+        "final_energy": 296240.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "522": {
+        "final_energy": 297070.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "523": {
+        "final_energy": 296440.0, 
+        "elec_stop": 0.13783499999999999, 
+        "energy_lost": 5.3536702821999995
+    }, 
+    "528": {
+        "final_energy": 296260.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "529": {
+        "final_energy": 296690.0, 
+        "elec_stop": 0.17230599999999999, 
+        "energy_lost": 142.6336702822
+    }, 
+    "449": {
+        "final_energy": 296180.0, 
+        "elec_stop": 0.069138000000000005, 
+        "energy_lost": 0.0076819821999999996
+    }, 
+    "448": {
+        "final_energy": 296050.0, 
+        "elec_stop": 0.06892100000000001, 
+        "energy_lost": 3.07687
+    }, 
+    "443": {
+        "final_energy": 297340.0, 
+        "elec_stop": 0.034467999999999999, 
+        "energy_lost": 2.2768000000000002
+    }, 
+    "442": {
+        "final_energy": 296160.0, 
+        "elec_stop": 0.068947000000000008, 
+        "energy_lost": 140.2928
+    }, 
+    "441": {
+        "final_energy": 296740.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "440": {
+        "final_energy": 296920.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "447": {
+        "final_energy": 296720.0, 
+        "elec_stop": 0.069138000000000005, 
+        "energy_lost": 0.0076819821999999996
+    }, 
+    "446": {
+        "final_energy": 297450.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "445": {
+        "final_energy": 296450.0, 
+        "elec_stop": 0.034445999999999997, 
+        "energy_lost": 2.8220000000000003e-07
+    }, 
+    "444": {
+        "final_energy": 296610.0, 
+        "elec_stop": 0.06892100000000001, 
+        "energy_lost": 3.07687
+    }, 
+    "47": {
+        "final_energy": 296530.0, 
+        "elec_stop": 0.034445999999999997, 
+        "energy_lost": 2.8220000000000003e-07
+    }, 
+    "108": {
+        "final_energy": 296240.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "109": {
+        "final_energy": 296280.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "102": {
+        "final_energy": 296550.0, 
+        "elec_stop": 0.13783499999999999, 
+        "energy_lost": 5.3536700000000002
+    }, 
+    "103": {
+        "final_energy": 296390.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "100": {
+        "final_energy": 296580.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "101": {
+        "final_energy": 295750.0, 
+        "elec_stop": 0.034465000000000003, 
+        "energy_lost": 0.87046999999999997
+    }, 
+    "106": {
+        "final_energy": 296720.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "107": {
+        "final_energy": 296230.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "104": {
+        "final_energy": 297050.0, 
+        "elec_stop": 0.17233600000000002, 
+        "energy_lost": 145.64646999999999
+    }, 
+    "105": {
+        "final_energy": 295400.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "902": {
+        "final_energy": 296320.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "903": {
+        "final_energy": 297380.0, 
+        "elec_stop": 0.06892100000000001, 
+        "energy_lost": 3.07687
+    }, 
+    "39": {
+        "final_energy": 297040.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "38": {
+        "final_energy": 296070.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "906": {
+        "final_energy": 296210.0, 
+        "elec_stop": 0.17230599999999999, 
+        "energy_lost": 142.63367
+    }, 
+    "907": {
+        "final_energy": 296370.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "904": {
+        "final_energy": 296540.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "905": {
+        "final_energy": 297050.0, 
+        "elec_stop": 0.17230599999999999, 
+        "energy_lost": 142.6336702822
+    }, 
+    "33": {
+        "final_energy": 296450.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "32": {
+        "final_energy": 296890.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "31": {
+        "final_energy": 297050.0, 
+        "elec_stop": 0.24147399999999999, 
+        "energy_lost": 145.65415198220001
+    }, 
+    "30": {
+        "final_energy": 296550.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "37": {
+        "final_energy": 297140.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2064002821999997
+    }, 
+    "36": {
+        "final_energy": 296300.0, 
+        "elec_stop": 0.034465000000000003, 
+        "energy_lost": 0.87046999999999997
+    }, 
+    "35": {
+        "final_energy": 296560.0, 
+        "elec_stop": 0.034467999999999999, 
+        "energy_lost": 2.2768000000000002
+    }, 
+    "34": {
+        "final_energy": 296810.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "641": {
+        "final_energy": 296620.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "640": {
+        "final_energy": 296970.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2064002821999997
+    }, 
+    "643": {
+        "final_energy": 296960.0, 
+        "elec_stop": 0.034465000000000003, 
+        "energy_lost": 0.87046999999999997
+    }, 
+    "642": {
+        "final_energy": 296270.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "645": {
+        "final_energy": 296830.0, 
+        "elec_stop": 0.034456000000000001, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "644": {
+        "final_energy": 297310.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "438": {
+        "final_energy": 296750.0, 
+        "elec_stop": 0.068932999999999994, 
+        "energy_lost": 3.1472700000000002
+    }, 
+    "439": {
+        "final_energy": 295840.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "436": {
+        "final_energy": 296980.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "437": {
+        "final_energy": 295970.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "434": {
+        "final_energy": 296320.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "435": {
+        "final_energy": 297010.0, 
+        "elec_stop": 0.41380899999999998, 
+        "energy_lost": 209.46027000000001
+    }, 
+    "432": {
+        "final_energy": 296600.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "433": {
+        "final_energy": 296690.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "430": {
+        "final_energy": 296840.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "431": {
+        "final_energy": 296960.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "826": {
+        "final_energy": 296280.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "339": {
+        "final_energy": 296920.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "338": {
+        "final_energy": 296170.0, 
+        "elec_stop": 0.20744300000000002, 
+        "energy_lost": 18.294350682200001
+    }, 
+    "335": {
+        "final_energy": 295380.0, 
+        "elec_stop": 0.068939, 
+        "energy_lost": 139.55680000000001
+    }, 
+    "334": {
+        "final_energy": 297310.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "337": {
+        "final_energy": 295610.0, 
+        "elec_stop": 0.13786000000000001, 
+        "energy_lost": 142.63367
+    }, 
+    "336": {
+        "final_energy": 297150.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "331": {
+        "final_energy": 296640.0, 
+        "elec_stop": 0.034471000000000002, 
+        "energy_lost": 137.28
+    }, 
+    "330": {
+        "final_energy": 296900.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "333": {
+        "final_energy": 296870.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "332": {
+        "final_energy": 296930.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "559": {
+        "final_energy": 295830.0, 
+        "elec_stop": 0.034467999999999999, 
+        "energy_lost": 2.2768000000000002
+    }, 
+    "745": {
+        "final_energy": 296630.0, 
+        "elec_stop": 0.13783499999999999, 
+        "energy_lost": 5.3536702821999995
+    }, 
+    "854": {
+        "final_energy": 296500.0, 
+        "elec_stop": 0.034471000000000002, 
+        "energy_lost": 137.28
+    }, 
+    "818": {
+        "final_energy": 296900.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "856": {
+        "final_energy": 296070.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "857": {
+        "final_energy": 297140.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "850": {
+        "final_energy": 296740.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "851": {
+        "final_energy": 297000.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "852": {
+        "final_energy": 296590.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2064002821999997
+    }, 
+    "819": {
+        "final_energy": 297210.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2064002821999997
+    }, 
+    "858": {
+        "final_energy": 296690.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 2.8220000000000003e-07
+    }, 
+    "859": {
+        "final_energy": 296350.0, 
+        "elec_stop": 0.13783499999999999, 
+        "energy_lost": 5.3536700000000002
+    }, 
+    "748": {
+        "final_energy": 296050.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "6": {
+        "final_energy": 296670.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "43": {
+        "final_energy": 295880.0, 
+        "elec_stop": 0.034467999999999999, 
+        "energy_lost": 2.2768000000000002
+    }, 
+    "99": {
+        "final_energy": 296240.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2064002821999997
+    }, 
+    "98": {
+        "final_energy": 296920.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "91": {
+        "final_energy": 296100.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "90": {
+        "final_energy": 296190.0, 
+        "elec_stop": 0.034456000000000001, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "93": {
+        "final_energy": 296620.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "92": {
+        "final_energy": 296070.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "95": {
+        "final_energy": 296300.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "94": {
+        "final_energy": 297010.0, 
+        "elec_stop": 0.17230599999999999, 
+        "energy_lost": 142.6336702822
+    }, 
+    "97": {
+        "final_energy": 296150.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "96": {
+        "final_energy": 295850.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "814": {
+        "final_energy": 296390.0, 
+        "elec_stop": 0.068932999999999994, 
+        "energy_lost": 3.1472700000000002
+    }, 
+    "815": {
+        "final_energy": 296080.0, 
+        "elec_stop": 0.068947000000000008, 
+        "energy_lost": 140.2928
+    }, 
+    "153": {
+        "final_energy": 295810.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "740": {
+        "final_energy": 296350.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "741": {
+        "final_energy": 295830.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "742": {
+        "final_energy": 296030.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2064002821999997
+    }, 
+    "743": {
+        "final_energy": 296340.0, 
+        "elec_stop": 0.034465000000000003, 
+        "energy_lost": 0.87046999999999997
+    }, 
+    "744": {
+        "final_energy": 296230.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "558": {
+        "final_energy": 297300.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "746": {
+        "final_energy": 296620.0, 
+        "elec_stop": 0.17230599999999999, 
+        "energy_lost": 142.63367
+    }, 
+    "747": {
+        "final_energy": 296810.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "555": {
+        "final_energy": 296410.0, 
+        "elec_stop": 0.13786000000000001, 
+        "energy_lost": 142.63367
+    }, 
+    "554": {
+        "final_energy": 296900.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "557": {
+        "final_energy": 296400.0, 
+        "elec_stop": 0.034465000000000003, 
+        "energy_lost": 0.87046999999999997
+    }, 
+    "556": {
+        "final_energy": 296350.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "551": {
+        "final_energy": 296910.0, 
+        "elec_stop": 0.034692000000000001, 
+        "energy_lost": 0.0076819821999999996
+    }, 
+    "550": {
+        "final_energy": 296690.0, 
+        "elec_stop": 0.17230599999999999, 
+        "energy_lost": 142.63367
+    }, 
+    "553": {
+        "final_energy": 296230.0, 
+        "elec_stop": 0.13796600000000001, 
+        "energy_lost": 9.7622
+    }, 
+    "552": {
+        "final_energy": 295680.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "238": {
+        "final_energy": 295880.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2064002821999997
+    }, 
+    "239": {
+        "final_energy": 296460.0, 
+        "elec_stop": 0.068932999999999994, 
+        "energy_lost": 3.1472700000000002
+    }, 
+    "234": {
+        "final_energy": 296790.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "235": {
+        "final_energy": 296510.0, 
+        "elec_stop": 0.10359400000000001, 
+        "energy_lost": 2.2140819821999997
+    }, 
+    "236": {
+        "final_energy": 296280.0, 
+        "elec_stop": 0.103404, 
+        "energy_lost": 140.42726999999999
+    }, 
+    "237": {
+        "final_energy": 296640.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "230": {
+        "final_energy": 296850.0, 
+        "elec_stop": 0.103404, 
+        "energy_lost": 140.42726999999999
+    }, 
+    "231": {
+        "final_energy": 295760.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "232": {
+        "final_energy": 297020.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "233": {
+        "final_energy": 296530.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "1": {
+        "final_energy": 296730.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "155": {
+        "final_energy": 296240.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "146": {
+        "final_energy": 296850.0, 
+        "elec_stop": 0.10338900000000001, 
+        "energy_lost": 5.3536700000000002
+    }, 
+    "147": {
+        "final_energy": 296800.0, 
+        "elec_stop": 0.068947000000000008, 
+        "energy_lost": 140.2928
+    }, 
+    "618": {
+        "final_energy": 297060.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "145": {
+        "final_energy": 296740.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "142": {
+        "final_energy": 296330.0, 
+        "elec_stop": 0.24191099999999999, 
+        "energy_lost": 20.571150682199999
+    }, 
+    "143": {
+        "final_energy": 296580.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "140": {
+        "final_energy": 296620.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "141": {
+        "final_energy": 296040.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "612": {
+        "final_energy": 297040.0, 
+        "elec_stop": 0.10338900000000001, 
+        "energy_lost": 5.3536700000000002
+    }, 
+    "613": {
+        "final_energy": 296270.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "610": {
+        "final_energy": 296330.0, 
+        "elec_stop": 0.10338900000000001, 
+        "energy_lost": 5.3536700000000002
+    }, 
+    "611": {
+        "final_energy": 296180.0, 
+        "elec_stop": 0.034471000000000002, 
+        "energy_lost": 137.28
+    }, 
+    "616": {
+        "final_energy": 296130.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "617": {
+        "final_energy": 296720.0, 
+        "elec_stop": 0.034465000000000003, 
+        "energy_lost": 0.87046999999999997
+    }, 
+    "148": {
+        "final_energy": 296870.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "149": {
+        "final_energy": 296750.0, 
+        "elec_stop": 0.103404, 
+        "energy_lost": 140.42726999999999
+    }, 
+    "46": {
+        "final_energy": 296880.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "154": {
+        "final_energy": 296510.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "948": {
+        "final_energy": 296180.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "949": {
+        "final_energy": 297240.0, 
+        "elec_stop": 0.034445999999999997, 
+        "energy_lost": 0.0
+    }, 
+    "946": {
+        "final_energy": 296150.0, 
+        "elec_stop": 0.06892100000000001, 
+        "energy_lost": 3.07687
+    }, 
+    "947": {
+        "final_energy": 296470.0, 
+        "elec_stop": 0.10341500000000001, 
+        "energy_lost": 142.56960000000001
+    }, 
+    "944": {
+        "final_energy": 296760.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "945": {
+        "final_energy": 296860.0, 
+        "elec_stop": 0.27576499999999998, 
+        "energy_lost": 150.68617
+    }, 
+    "942": {
+        "final_energy": 297020.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "943": {
+        "final_energy": 296600.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "940": {
+        "final_energy": 296910.0, 
+        "elec_stop": 0.034445999999999997, 
+        "energy_lost": 0.0
+    }, 
+    "941": {
+        "final_energy": 297000.0, 
+        "elec_stop": 0.06892100000000001, 
+        "energy_lost": 3.07687
+    }, 
+    "689": {
+        "final_energy": 296340.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "688": {
+        "final_energy": 297610.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "685": {
+        "final_energy": 296630.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "684": {
+        "final_energy": 295780.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "687": {
+        "final_energy": 296290.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "686": {
+        "final_energy": 296420.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "681": {
+        "final_energy": 296210.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "680": {
+        "final_energy": 297140.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "683": {
+        "final_energy": 296500.0, 
+        "elec_stop": 0.10359400000000001, 
+        "energy_lost": 2.2140819821999997
+    }, 
+    "682": {
+        "final_energy": 296670.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "458": {
+        "final_energy": 296300.0, 
+        "elec_stop": 0.034465000000000003, 
+        "energy_lost": 0.87046999999999997
+    }, 
+    "459": {
+        "final_energy": 296390.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "133": {
+        "final_energy": 296250.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "132": {
+        "final_energy": 296400.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "131": {
+        "final_energy": 296290.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "130": {
+        "final_energy": 297690.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "137": {
+        "final_energy": 296720.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "136": {
+        "final_energy": 296590.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "135": {
+        "final_energy": 296630.0, 
+        "elec_stop": 0.103404, 
+        "energy_lost": 140.42726999999999
+    }, 
+    "134": {
+        "final_energy": 296040.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "494": {
+        "final_energy": 296630.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "495": {
+        "final_energy": 297080.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "139": {
+        "final_energy": 297020.0, 
+        "elec_stop": 0.17252700000000001, 
+        "energy_lost": 5.3613519822000004
+    }, 
+    "138": {
+        "final_energy": 296510.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "490": {
+        "final_energy": 296460.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "491": {
+        "final_energy": 296390.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "492": {
+        "final_energy": 296100.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "493": {
+        "final_energy": 296590.0, 
+        "elec_stop": 0.10338900000000001, 
+        "energy_lost": 5.3536700000000002
+    }, 
+    "24": {
+        "final_energy": 296580.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "25": {
+        "final_energy": 296510.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "26": {
+        "final_energy": 296510.0, 
+        "elec_stop": 0.17230599999999999, 
+        "energy_lost": 142.6336702822
+    }, 
+    "27": {
+        "final_energy": 296320.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "20": {
+        "final_energy": 296520.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "21": {
+        "final_energy": 296330.0, 
+        "elec_stop": 0.10338900000000001, 
+        "energy_lost": 5.3536700000000002
+    }, 
+    "22": {
+        "final_energy": 297150.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "23": {
+        "final_energy": 296460.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "28": {
+        "final_energy": 296500.0, 
+        "elec_stop": 0.034445999999999997, 
+        "energy_lost": 0.0
+    }, 
+    "29": {
+        "final_energy": 296630.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "820": {
+        "final_energy": 296350.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "407": {
+        "final_energy": 296930.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "406": {
+        "final_energy": 296910.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2064002821999997
+    }, 
+    "405": {
+        "final_energy": 295880.0, 
+        "elec_stop": 0.034465000000000003, 
+        "energy_lost": 0.87046999999999997
+    }, 
+    "404": {
+        "final_energy": 296820.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "403": {
+        "final_energy": 296370.0, 
+        "elec_stop": 0.13786000000000001, 
+        "energy_lost": 142.63367
+    }, 
+    "402": {
+        "final_energy": 296470.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "401": {
+        "final_energy": 297310.0, 
+        "elec_stop": 0.10341500000000001, 
+        "energy_lost": 142.56960000000001
+    }, 
+    "400": {
+        "final_energy": 296810.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "933": {
+        "final_energy": 296730.0, 
+        "elec_stop": 0.034445999999999997, 
+        "energy_lost": 0.0
+    }, 
+    "932": {
+        "final_energy": 296620.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "931": {
+        "final_energy": 296930.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "930": {
+        "final_energy": 296410.0, 
+        "elec_stop": 0.17230599999999999, 
+        "energy_lost": 142.63367
+    }, 
+    "937": {
+        "final_energy": 296400.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "452": {
+        "final_energy": 296520.0, 
+        "elec_stop": 0.34477999999999998, 
+        "energy_lost": 197.04387
+    }, 
+    "409": {
+        "final_energy": 296940.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "408": {
+        "final_energy": 297560.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "453": {
+        "final_energy": 296090.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "414": {
+        "final_energy": 296540.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "183": {
+        "final_energy": 296580.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "415": {
+        "final_energy": 296220.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "379": {
+        "final_energy": 296560.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "378": {
+        "final_energy": 297010.0, 
+        "elec_stop": 0.034456000000000001, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "228": {
+        "final_energy": 296900.0, 
+        "elec_stop": 0.10336699999999999, 
+        "energy_lost": 3.07687
+    }, 
+    "829": {
+        "final_energy": 296710.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "828": {
+        "final_energy": 296560.0, 
+        "elec_stop": 0.13783499999999999, 
+        "energy_lost": 5.3536702821999995
+    }, 
+    "371": {
+        "final_energy": 296530.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "370": {
+        "final_energy": 297220.0, 
+        "elec_stop": 0.068932999999999994, 
+        "energy_lost": 3.1472700000000002
+    }, 
+    "373": {
+        "final_energy": 296800.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "372": {
+        "final_energy": 297180.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "375": {
+        "final_energy": 296600.0, 
+        "elec_stop": 0.10383000000000001, 
+        "energy_lost": 15.2146819822
+    }, 
+    "374": {
+        "final_energy": 295890.0, 
+        "elec_stop": 0.06892100000000001, 
+        "energy_lost": 3.07687
+    }, 
+    "377": {
+        "final_energy": 296620.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "376": {
+        "final_energy": 296830.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "708": {
+        "final_energy": 296150.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "709": {
+        "final_energy": 296220.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "704": {
+        "final_energy": 296110.0, 
+        "elec_stop": 0.068932999999999994, 
+        "energy_lost": 3.1472700000000002
+    }, 
+    "705": {
+        "final_energy": 296760.0, 
+        "elec_stop": 0.068947000000000008, 
+        "energy_lost": 140.2928
+    }, 
+    "706": {
+        "final_energy": 296890.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "707": {
+        "final_energy": 296760.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "700": {
+        "final_energy": 296100.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2064002821999997
+    }, 
+    "144": {
+        "final_energy": 296680.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "702": {
+        "final_energy": 296910.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "703": {
+        "final_energy": 296870.0, 
+        "elec_stop": 0.034445999999999997, 
+        "energy_lost": 0.0
+    }, 
+    "393": {
+        "final_energy": 296170.0, 
+        "elec_stop": 0.034456000000000001, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "392": {
+        "final_energy": 296570.0, 
+        "elec_stop": 0.034465000000000003, 
+        "energy_lost": 0.87046999999999997
+    }, 
+    "88": {
+        "final_energy": 296430.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "89": {
+        "final_energy": 296300.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "397": {
+        "final_energy": 297020.0, 
+        "elec_stop": 0.13783499999999999, 
+        "energy_lost": 5.3536700000000002
+    }, 
+    "396": {
+        "final_energy": 297450.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "395": {
+        "final_energy": 296630.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "394": {
+        "final_energy": 296850.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "82": {
+        "final_energy": 296430.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "83": {
+        "final_energy": 296540.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "80": {
+        "final_energy": 296870.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "81": {
+        "final_energy": 296560.0, 
+        "elec_stop": 0.10359400000000001, 
+        "energy_lost": 2.2140819821999997
+    }, 
+    "86": {
+        "final_energy": 296130.0, 
+        "elec_stop": 0.068932999999999994, 
+        "energy_lost": 3.1472700000000002
+    }, 
+    "87": {
+        "final_energy": 297340.0, 
+        "elec_stop": 0.068947000000000008, 
+        "energy_lost": 140.2928
+    }, 
+    "84": {
+        "final_energy": 296430.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "85": {
+        "final_energy": 296360.0, 
+        "elec_stop": 0.24131900000000001, 
+        "energy_lost": 150.68617
+    }, 
+    "797": {
+        "final_energy": 296660.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "796": {
+        "final_energy": 296070.0, 
+        "elec_stop": 0.034445999999999997, 
+        "energy_lost": 2.8220000000000003e-07
+    }, 
+    "795": {
+        "final_energy": 297140.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "794": {
+        "final_energy": 296140.0, 
+        "elec_stop": 0.20721900000000001, 
+        "energy_lost": 20.568351982200003
+    }, 
+    "793": {
+        "final_energy": 296700.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "792": {
+        "final_energy": 296590.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 2.8220000000000003e-07
+    }, 
+    "791": {
+        "final_energy": 296060.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "790": {
+        "final_energy": 296790.0, 
+        "elec_stop": 0.13805900000000002, 
+        "energy_lost": 3.0845519821999998
+    }, 
+    "749": {
+        "final_energy": 296810.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "799": {
+        "final_energy": 296300.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "798": {
+        "final_energy": 295740.0, 
+        "elec_stop": 0.034465000000000003, 
+        "energy_lost": 0.87046999999999997
+    }, 
+    "7": {
+        "final_energy": 296580.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "170": {
+        "final_energy": 297090.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "586": {
+        "final_energy": 297270.0, 
+        "elec_stop": 0.13805900000000002, 
+        "energy_lost": 3.0845519821999998
+    }, 
+    "587": {
+        "final_energy": 296420.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "584": {
+        "final_energy": 296410.0, 
+        "elec_stop": 0.17233600000000002, 
+        "energy_lost": 145.64646999999999
+    }, 
+    "585": {
+        "final_energy": 296380.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "582": {
+        "final_energy": 297020.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "583": {
+        "final_energy": 296980.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "580": {
+        "final_energy": 296280.0, 
+        "elec_stop": 0.13783499999999999, 
+        "energy_lost": 5.3536702821999995
+    }, 
+    "581": {
+        "final_energy": 297590.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "588": {
+        "final_energy": 296580.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "589": {
+        "final_energy": 296940.0, 
+        "elec_stop": 0.10359400000000001, 
+        "energy_lost": 2.2140819821999997
+    }, 
+    "245": {
+        "final_energy": 297170.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "244": {
+        "final_energy": 296940.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "247": {
+        "final_energy": 296190.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "246": {
+        "final_energy": 295930.0, 
+        "elec_stop": 0.034465000000000003, 
+        "energy_lost": 0.87046999999999997
+    }, 
+    "241": {
+        "final_energy": 296820.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "614": {
+        "final_energy": 297230.0, 
+        "elec_stop": 0.034445999999999997, 
+        "energy_lost": 0.0
+    }, 
+    "243": {
+        "final_energy": 295990.0, 
+        "elec_stop": 0.13789899999999999, 
+        "energy_lost": 145.88390000000001
+    }, 
+    "242": {
+        "final_energy": 296080.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "615": {
+        "final_energy": 296330.0, 
+        "elec_stop": 0.034467999999999999, 
+        "energy_lost": 2.2768000000000002
+    }, 
+    "249": {
+        "final_energy": 296470.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "248": {
+        "final_energy": 296970.0, 
+        "elec_stop": 0.06892100000000001, 
+        "energy_lost": 3.07687
+    }, 
+    "418": {
+        "final_energy": 296500.0, 
+        "elec_stop": 0.24126599999999998, 
+        "energy_lost": 148.96077
+    }, 
+    "224": {
+        "final_energy": 296330.0, 
+        "elec_stop": 0.034445999999999997, 
+        "energy_lost": 2.8220000000000003e-07
+    }, 
+    "419": {
+        "final_energy": 296030.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "519": {
+        "final_energy": 296650.0, 
+        "elec_stop": 0.10341500000000001, 
+        "energy_lost": 142.56960000000001
+    }, 
+    "518": {
+        "final_energy": 296610.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "511": {
+        "final_energy": 296200.0, 
+        "elec_stop": 0.06892100000000001, 
+        "energy_lost": 3.07687
+    }, 
+    "510": {
+        "final_energy": 297110.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "513": {
+        "final_energy": 296320.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "512": {
+        "final_energy": 296470.0, 
+        "elec_stop": 0.31027200000000005, 
+        "energy_lost": 152.39587028220001
+    }, 
+    "515": {
+        "final_energy": 296500.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "514": {
+        "final_energy": 296430.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "517": {
+        "final_energy": 296090.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "1000": {
+        "final_energy": 296830.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "623": {
+        "final_energy": 295750.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "622": {
+        "final_energy": 296440.0, 
+        "elec_stop": 0.068932999999999994, 
+        "energy_lost": 3.1472700000000002
+    }, 
+    "621": {
+        "final_energy": 296400.0, 
+        "elec_stop": 0.10336699999999999, 
+        "energy_lost": 3.0768702821999998
+    }, 
+    "620": {
+        "final_energy": 296650.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "627": {
+        "final_energy": 296340.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "626": {
+        "final_energy": 296730.0, 
+        "elec_stop": 0.17233600000000002, 
+        "energy_lost": 145.64646999999999
+    }, 
+    "625": {
+        "final_energy": 296430.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "624": {
+        "final_energy": 296830.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "450": {
+        "final_energy": 296580.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "451": {
+        "final_energy": 296090.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "629": {
+        "final_energy": 297210.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "628": {
+        "final_energy": 295940.0, 
+        "elec_stop": 0.069138000000000005, 
+        "energy_lost": 0.0076819821999999996
+    }, 
+    "454": {
+        "final_energy": 296570.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "455": {
+        "final_energy": 295970.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "456": {
+        "final_energy": 296910.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "457": {
+        "final_energy": 296290.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "179": {
+        "final_energy": 297060.0, 
+        "elec_stop": 0.27616600000000002, 
+        "energy_lost": 160.86115198220003
+    }, 
+    "178": {
+        "final_energy": 296470.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "177": {
+        "final_energy": 295970.0, 
+        "elec_stop": 0.103404, 
+        "energy_lost": 140.42726999999999
+    }, 
+    "199": {
+        "final_energy": 296450.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "175": {
+        "final_energy": 296620.0, 
+        "elec_stop": 0.068939, 
+        "energy_lost": 139.55680000000001
+    }, 
+    "174": {
+        "final_energy": 296190.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "173": {
+        "final_energy": 296380.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "172": {
+        "final_energy": 297040.0, 
+        "elec_stop": 0.034465000000000003, 
+        "energy_lost": 0.87046999999999997
+    }, 
+    "171": {
+        "final_energy": 296770.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "198": {
+        "final_energy": 296920.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "977": {
+        "final_energy": 296510.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "182": {
+        "final_energy": 296650.0, 
+        "elec_stop": 0.10336699999999999, 
+        "energy_lost": 3.0768702821999998
+    }, 
+    "975": {
+        "final_energy": 297020.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "974": {
+        "final_energy": 296800.0, 
+        "elec_stop": 0.06892100000000001, 
+        "energy_lost": 3.07687
+    }, 
+    "973": {
+        "final_energy": 296330.0, 
+        "elec_stop": 0.20690500000000001, 
+        "energy_lost": 149.31900000000002
+    }, 
+    "972": {
+        "final_energy": 296870.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "971": {
+        "final_energy": 297060.0, 
+        "elec_stop": 0.17233600000000002, 
+        "energy_lost": 145.64646999999999
+    }, 
+    "970": {
+        "final_energy": 296050.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "180": {
+        "final_energy": 296280.0, 
+        "elec_stop": 0.10336699999999999, 
+        "energy_lost": 3.0768702821999998
+    }, 
+    "979": {
+        "final_energy": 296650.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "978": {
+        "final_energy": 296310.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "656": {
+        "final_energy": 296630.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "599": {
+        "final_energy": 295770.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "654": {
+        "final_energy": 297630.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "181": {
+        "final_energy": 296900.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "186": {
+        "final_energy": 295860.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "187": {
+        "final_energy": 296650.0, 
+        "elec_stop": 0.17236400000000002, 
+        "energy_lost": 146.75436999999999
+    }, 
+    "184": {
+        "final_energy": 295770.0, 
+        "elec_stop": 0.10351400000000001, 
+        "energy_lost": 48.083100000000002
+    }, 
+    "185": {
+        "final_energy": 296450.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "652": {
+        "final_energy": 296730.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "188": {
+        "final_energy": 296210.0, 
+        "elec_stop": 0.10336699999999999, 
+        "energy_lost": 3.07687
+    }, 
+    "189": {
+        "final_energy": 296800.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "658": {
+        "final_energy": 296760.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "516": {
+        "final_energy": 297580.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2064002821999997
+    }, 
+    "650": {
+        "final_energy": 296890.0, 
+        "elec_stop": 0.034499000000000002, 
+        "energy_lost": 1.7254
+    }, 
+    "651": {
+        "final_energy": 296050.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "11": {
+        "final_energy": 296570.0, 
+        "elec_stop": 0.10336699999999999, 
+        "energy_lost": 3.0768702821999998
+    }, 
+    "10": {
+        "final_energy": 296550.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "13": {
+        "final_energy": 296490.0, 
+        "elec_stop": 0.06892100000000001, 
+        "energy_lost": 3.07687
+    }, 
+    "12": {
+        "final_energy": 295880.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "15": {
+        "final_energy": 296020.0, 
+        "elec_stop": 0.17236400000000002, 
+        "energy_lost": 146.75436999999999
+    }, 
+    "14": {
+        "final_energy": 296630.0, 
+        "elec_stop": 0.034499000000000002, 
+        "energy_lost": 1.7254
+    }, 
+    "17": {
+        "final_energy": 297740.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "16": {
+        "final_energy": 296040.0, 
+        "elec_stop": 0.034484000000000001, 
+        "energy_lost": 3.3142999999999998
+    }, 
+    "19": {
+        "final_energy": 296460.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "18": {
+        "final_energy": 297040.0, 
+        "elec_stop": 0.103404, 
+        "energy_lost": 140.42726999999999
+    }, 
+    "863": {
+        "final_energy": 296210.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "862": {
+        "final_energy": 295930.0, 
+        "elec_stop": 0.034692000000000001, 
+        "energy_lost": 0.0076816999999999996
+    }, 
+    "865": {
+        "final_energy": 296390.0, 
+        "elec_stop": 0.17230599999999999, 
+        "energy_lost": 142.6336702822
+    }, 
+    "864": {
+        "final_energy": 296350.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "867": {
+        "final_energy": 296430.0, 
+        "elec_stop": 0.10336699999999999, 
+        "energy_lost": 3.07687
+    }, 
+    "866": {
+        "final_energy": 296350.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "354": {
+        "final_energy": 297830.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "659": {
+        "final_energy": 296840.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "44": {
+        "final_energy": 296460.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "883": {
+        "final_energy": 296500.0, 
+        "elec_stop": 0.310392, 
+        "energy_lost": 205.43347
+    }, 
+    "882": {
+        "final_energy": 296900.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "881": {
+        "final_energy": 296770.0, 
+        "elec_stop": 0.068932999999999994, 
+        "energy_lost": 3.1472700000000002
+    }, 
+    "880": {
+        "final_energy": 296170.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "887": {
+        "final_energy": 296490.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2064002821999997
+    }, 
+    "886": {
+        "final_energy": 297180.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2064002821999997
+    }, 
+    "885": {
+        "final_energy": 297220.0, 
+        "elec_stop": 0.10338900000000001, 
+        "energy_lost": 5.3536700000000002
+    }, 
+    "884": {
+        "final_energy": 296460.0, 
+        "elec_stop": 0.10338900000000001, 
+        "energy_lost": 5.3536700000000002
+    }, 
+    "889": {
+        "final_energy": 296790.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "888": {
+        "final_energy": 296570.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "116": {
+        "final_energy": 296060.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "45": {
+        "final_energy": 296660.0, 
+        "elec_stop": 0.20699800000000002, 
+        "energy_lost": 142.64135198220001
+    }, 
+    "657": {
+        "final_energy": 296130.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "355": {
+        "final_energy": 296720.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "322": {
+        "final_energy": 296680.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "323": {
+        "final_energy": 297220.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "320": {
+        "final_energy": 296420.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "321": {
+        "final_energy": 296110.0, 
+        "elec_stop": 0.17230599999999999, 
+        "energy_lost": 142.6336702822
+    }, 
+    "326": {
+        "final_energy": 296250.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "327": {
+        "final_energy": 296280.0, 
+        "elec_stop": 0.103404, 
+        "energy_lost": 140.42726999999999
+    }, 
+    "324": {
+        "final_energy": 296700.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "325": {
+        "final_energy": 295850.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "328": {
+        "final_energy": 296330.0, 
+        "elec_stop": 0.10336699999999999, 
+        "energy_lost": 3.07687
+    }, 
+    "329": {
+        "final_energy": 296710.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "562": {
+        "final_energy": 296510.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "201": {
+        "final_energy": 296610.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "200": {
+        "final_energy": 297070.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "203": {
+        "final_energy": 296700.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "202": {
+        "final_energy": 296600.0, 
+        "elec_stop": 0.10338900000000001, 
+        "energy_lost": 5.3536700000000002
+    }, 
+    "205": {
+        "final_energy": 296820.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "204": {
+        "final_energy": 295990.0, 
+        "elec_stop": 0.10338900000000001, 
+        "energy_lost": 5.3536700000000002
+    }, 
+    "207": {
+        "final_energy": 295830.0, 
+        "elec_stop": 0.034471000000000002, 
+        "energy_lost": 137.28
+    }, 
+    "206": {
+        "final_energy": 297600.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "209": {
+        "final_energy": 296440.0, 
+        "elec_stop": 0.034456000000000001, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "208": {
+        "final_energy": 297110.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "779": {
+        "final_energy": 297010.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "778": {
+        "final_energy": 296380.0, 
+        "elec_stop": 0.20678199999999999, 
+        "energy_lost": 145.64646999999999
+    }, 
+    "77": {
+        "final_energy": 296440.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "76": {
+        "final_energy": 296490.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "75": {
+        "final_energy": 296300.0, 
+        "elec_stop": 0.034465000000000003, 
+        "energy_lost": 0.87046999999999997
+    }, 
+    "74": {
+        "final_energy": 296540.0, 
+        "elec_stop": 0.068939, 
+        "energy_lost": 139.55680000000001
+    }, 
+    "73": {
+        "final_energy": 296190.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "72": {
+        "final_energy": 297240.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "71": {
+        "final_energy": 296800.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "70": {
+        "final_energy": 296300.0, 
+        "elec_stop": 0.10336699999999999, 
+        "energy_lost": 3.07687
+    }, 
+    "655": {
+        "final_energy": 296490.0, 
+        "elec_stop": 0.10341500000000001, 
+        "energy_lost": 142.56960000000001
+    }, 
+    "567": {
+        "final_energy": 296130.0, 
+        "elec_stop": 0.06892100000000001, 
+        "energy_lost": 3.07687
+    }, 
+    "79": {
+        "final_energy": 296600.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "78": {
+        "final_energy": 296890.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "869": {
+        "final_energy": 296230.0, 
+        "elec_stop": 0.034467999999999999, 
+        "energy_lost": 2.2768000000000002
+    }, 
+    "359": {
+        "final_energy": 296720.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "358": {
+        "final_energy": 296290.0, 
+        "elec_stop": 0.10359400000000001, 
+        "energy_lost": 2.2140819821999997
+    }, 
+    "868": {
+        "final_energy": 296400.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "669": {
+        "final_energy": 297110.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "668": {
+        "final_energy": 296730.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "667": {
+        "final_energy": 297400.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2064002821999997
+    }, 
+    "666": {
+        "final_energy": 296260.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "665": {
+        "final_energy": 297000.0, 
+        "elec_stop": 0.103404, 
+        "energy_lost": 140.42726999999999
+    }, 
+    "664": {
+        "final_energy": 296880.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "663": {
+        "final_energy": 296350.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "662": {
+        "final_energy": 297310.0, 
+        "elec_stop": 0.034465000000000003, 
+        "energy_lost": 0.87046999999999997
+    }, 
+    "661": {
+        "final_energy": 297260.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "660": {
+        "final_energy": 296750.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "215": {
+        "final_energy": 296700.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "653": {
+        "final_energy": 296620.0, 
+        "elec_stop": 0.24126600000000001, 
+        "energy_lost": 148.9607702822
+    }, 
+    "692": {
+        "final_energy": 296460.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "693": {
+        "final_energy": 296850.0, 
+        "elec_stop": 0.034471000000000002, 
+        "energy_lost": 137.28
+    }, 
+    "690": {
+        "final_energy": 296560.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "691": {
+        "final_energy": 296380.0, 
+        "elec_stop": 0.103404, 
+        "energy_lost": 140.42726999999999
+    }, 
+    "696": {
+        "final_energy": 296610.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "697": {
+        "final_energy": 297890.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "694": {
+        "final_energy": 297100.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "695": {
+        "final_energy": 296370.0, 
+        "elec_stop": 0.10359400000000001, 
+        "energy_lost": 2.2140819821999997
+    }, 
+    "698": {
+        "final_energy": 296370.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "699": {
+        "final_energy": 297000.0, 
+        "elec_stop": 0.103404, 
+        "energy_lost": 140.42726999999999
+    }, 
+    "542": {
+        "final_energy": 296430.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "543": {
+        "final_energy": 296720.0, 
+        "elec_stop": 0.17252700000000001, 
+        "energy_lost": 5.3613519822000004
+    }, 
+    "540": {
+        "final_energy": 296760.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "541": {
+        "final_energy": 296930.0, 
+        "elec_stop": 0.17230599999999999, 
+        "energy_lost": 142.6336702822
+    }, 
+    "546": {
+        "final_energy": 296270.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "547": {
+        "final_energy": 296210.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "544": {
+        "final_energy": 296580.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "545": {
+        "final_energy": 296310.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2064002821999997
+    }, 
+    "8": {
+        "final_energy": 296560.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "548": {
+        "final_energy": 297120.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "549": {
+        "final_energy": 295900.0, 
+        "elec_stop": 0.20678199999999999, 
+        "energy_lost": 145.6464702822
+    }, 
+    "598": {
+        "final_energy": 297220.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "995": {
+        "final_energy": 296290.0, 
+        "elec_stop": 0.034465000000000003, 
+        "energy_lost": 0.87046999999999997
+    }, 
+    "994": {
+        "final_energy": 296630.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "997": {
+        "final_energy": 297090.0, 
+        "elec_stop": 0.068947000000000008, 
+        "energy_lost": 140.2928
+    }, 
+    "996": {
+        "final_energy": 295730.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "991": {
+        "final_energy": 296220.0, 
+        "elec_stop": 0.13783499999999999, 
+        "energy_lost": 5.3536702821999995
+    }, 
+    "990": {
+        "final_energy": 296310.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "993": {
+        "final_energy": 296460.0, 
+        "elec_stop": 0.068932999999999994, 
+        "energy_lost": 3.1472700000000002
+    }, 
+    "992": {
+        "final_energy": 296970.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "999": {
+        "final_energy": 297170.0, 
+        "elec_stop": 0.034692000000000001, 
+        "energy_lost": 15.207000000000001
+    }, 
+    "998": {
+        "final_energy": 296790.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "120": {
+        "final_energy": 296310.0, 
+        "elec_stop": 0.10383000000000001, 
+        "energy_lost": 15.2146819822
+    }, 
+    "121": {
+        "final_energy": 296450.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "122": {
+        "final_energy": 297450.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "123": {
+        "final_energy": 296680.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "124": {
+        "final_energy": 296760.0, 
+        "elec_stop": 0.034445999999999997, 
+        "energy_lost": 0.0
+    }, 
+    "125": {
+        "final_energy": 296630.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "126": {
+        "final_energy": 296710.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "127": {
+        "final_energy": 296370.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "128": {
+        "final_energy": 296830.0, 
+        "elec_stop": 0.20678199999999999, 
+        "energy_lost": 145.64646999999999
+    }, 
+    "2": {
+        "final_energy": 296850.0, 
+        "elec_stop": 0.13783499999999999, 
+        "energy_lost": 5.3536700000000002
+    }, 
+    "219": {
+        "final_energy": 296860.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "176": {
+        "final_energy": 296660.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "214": {
+        "final_energy": 297560.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "777": {
+        "final_energy": 296190.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "563": {
+        "final_energy": 296330.0, 
+        "elec_stop": 0.034445999999999997, 
+        "energy_lost": 2.8220000000000003e-07
+    }, 
+    "928": {
+        "final_energy": 297580.0, 
+        "elec_stop": 0.068932999999999994, 
+        "energy_lost": 3.1472700000000002
+    }, 
+    "929": {
+        "final_energy": 296380.0, 
+        "elec_stop": 0.10359400000000001, 
+        "energy_lost": 2.2140819821999997
+    }, 
+    "416": {
+        "final_energy": 296390.0, 
+        "elec_stop": 0.13852200000000001, 
+        "energy_lost": 15.2174806822
+    }, 
+    "417": {
+        "final_energy": 296280.0, 
+        "elec_stop": 0.034456000000000001, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "410": {
+        "final_energy": 296490.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "411": {
+        "final_energy": 296770.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "412": {
+        "final_energy": 296500.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "413": {
+        "final_energy": 296720.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "920": {
+        "final_energy": 296320.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "498": {
+        "final_energy": 296610.0, 
+        "elec_stop": 0.13788, 
+        "energy_lost": 143.44006999999999
+    }, 
+    "922": {
+        "final_energy": 296670.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "923": {
+        "final_energy": 297320.0, 
+        "elec_stop": 0.034692000000000001, 
+        "energy_lost": 0.0076819821999999996
+    }, 
+    "924": {
+        "final_energy": 297130.0, 
+        "elec_stop": 0.068939, 
+        "energy_lost": 139.55680000000001
+    }, 
+    "925": {
+        "final_energy": 295530.0, 
+        "elec_stop": 0.034465000000000003, 
+        "energy_lost": 0.87046999999999997
+    }, 
+    "926": {
+        "final_energy": 297150.0, 
+        "elec_stop": 0.034445999999999997, 
+        "energy_lost": 2.8220000000000003e-07
+    }, 
+    "927": {
+        "final_energy": 295880.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "319": {
+        "final_energy": 296720.0, 
+        "elec_stop": 0.069138000000000005, 
+        "energy_lost": 0.0076819821999999996
+    }, 
+    "318": {
+        "final_energy": 296640.0, 
+        "elec_stop": 0.10338900000000001, 
+        "energy_lost": 5.3536700000000002
+    }, 
+    "313": {
+        "final_energy": 296260.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "312": {
+        "final_energy": 296770.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "311": {
+        "final_energy": 296540.0, 
+        "elec_stop": 0.034445999999999997, 
+        "energy_lost": 2.8220000000000003e-07
+    }, 
+    "310": {
+        "final_energy": 296590.0, 
+        "elec_stop": 0.034456000000000001, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "317": {
+        "final_energy": 295740.0, 
+        "elec_stop": 0.17236400000000002, 
+        "energy_lost": 146.75436999999999
+    }, 
+    "316": {
+        "final_energy": 295680.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "315": {
+        "final_energy": 296770.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "314": {
+        "final_energy": 296380.0, 
+        "elec_stop": 0.10359400000000001, 
+        "energy_lost": 2.2140819821999997
+    }, 
+    "921": {
+        "final_energy": 296070.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "496": {
+        "final_energy": 296960.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "832": {
+        "final_energy": 296900.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "833": {
+        "final_energy": 296170.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "830": {
+        "final_energy": 296690.0, 
+        "elec_stop": 0.10336699999999999, 
+        "energy_lost": 3.0768702821999998
+    }, 
+    "831": {
+        "final_energy": 296370.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "836": {
+        "final_energy": 296440.0, 
+        "elec_stop": 0.034465000000000003, 
+        "energy_lost": 0.87046999999999997
+    }, 
+    "837": {
+        "final_energy": 296280.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "834": {
+        "final_energy": 296110.0, 
+        "elec_stop": 0.034467999999999999, 
+        "energy_lost": 2.2768000000000002
+    }, 
+    "835": {
+        "final_energy": 296760.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "838": {
+        "final_energy": 296420.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "839": {
+        "final_energy": 296220.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "3": {
+        "final_energy": 296490.0, 
+        "elec_stop": 0.06892100000000001, 
+        "energy_lost": 3.07687
+    }, 
+    "368": {
+        "final_energy": 296120.0, 
+        "elec_stop": 0.034471000000000002, 
+        "energy_lost": 137.28
+    }, 
+    "369": {
+        "final_energy": 297270.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "366": {
+        "final_energy": 297070.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "367": {
+        "final_energy": 297020.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "364": {
+        "final_energy": 295900.0, 
+        "elec_stop": 0.034465000000000003, 
+        "energy_lost": 0.87046999999999997
+    }, 
+    "365": {
+        "final_energy": 296920.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "362": {
+        "final_energy": 296730.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "363": {
+        "final_energy": 297280.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "360": {
+        "final_energy": 296580.0, 
+        "elec_stop": 0.13788, 
+        "energy_lost": 143.44006999999999
+    }, 
+    "361": {
+        "final_energy": 296700.0, 
+        "elec_stop": 0.068983000000000003, 
+        "energy_lost": 5.0396999999999998
+    }, 
+    "218": {
+        "final_energy": 297110.0, 
+        "elec_stop": 0.10338900000000001, 
+        "energy_lost": 5.3536700000000002
+    }, 
+    "380": {
+        "final_energy": 296460.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "861": {
+        "final_energy": 296160.0, 
+        "elec_stop": 0.034465000000000003, 
+        "energy_lost": 0.87046999999999997
+    }, 
+    "382": {
+        "final_energy": 296160.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2064002821999997
+    }, 
+    "383": {
+        "final_energy": 296460.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "384": {
+        "final_energy": 297340.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "385": {
+        "final_energy": 296740.0, 
+        "elec_stop": 0.10336699999999999, 
+        "energy_lost": 3.07687
+    }, 
+    "386": {
+        "final_energy": 297110.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "387": {
+        "final_energy": 296590.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "388": {
+        "final_energy": 296580.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "389": {
+        "final_energy": 297340.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "784": {
+        "final_energy": 295900.0, 
+        "elec_stop": 0.13805900000000002, 
+        "energy_lost": 3.0845519821999998
+    }, 
+    "785": {
+        "final_energy": 297290.0, 
+        "elec_stop": 0.034467999999999999, 
+        "energy_lost": 2.2768000000000002
+    }, 
+    "786": {
+        "final_energy": 297040.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "787": {
+        "final_energy": 296840.0, 
+        "elec_stop": 0.17275100000000002, 
+        "energy_lost": 18.291551982200001
+    }, 
+    "780": {
+        "final_energy": 296660.0, 
+        "elec_stop": 0.034467999999999999, 
+        "energy_lost": 2.2768000000000002
+    }, 
+    "781": {
+        "final_energy": 296150.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "782": {
+        "final_energy": 296430.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2064002821999997
+    }, 
+    "381": {
+        "final_energy": 296500.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "788": {
+        "final_energy": 296520.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "789": {
+        "final_energy": 296350.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "860": {
+        "final_energy": 296470.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "151": {
+        "final_energy": 296250.0, 
+        "elec_stop": 0.034445999999999997, 
+        "energy_lost": 2.8220000000000003e-07
+    }, 
+    "579": {
+        "final_energy": 296900.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "578": {
+        "final_energy": 297310.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "150": {
+        "final_energy": 297170.0, 
+        "elec_stop": 0.034456000000000001, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "573": {
+        "final_energy": 297120.0, 
+        "elec_stop": 0.034692000000000001, 
+        "energy_lost": 0.0076816999999999996
+    }, 
+    "572": {
+        "final_energy": 296460.0, 
+        "elec_stop": 0.17230599999999999, 
+        "energy_lost": 142.6336702822
+    }, 
+    "571": {
+        "final_energy": 296700.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "570": {
+        "final_energy": 296320.0, 
+        "elec_stop": 0.103404, 
+        "energy_lost": 140.42726999999999
+    }, 
+    "577": {
+        "final_energy": 296970.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "576": {
+        "final_energy": 296410.0, 
+        "elec_stop": 0.034456000000000001, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "575": {
+        "final_energy": 296430.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "574": {
+        "final_energy": 296140.0, 
+        "elec_stop": 0.20686300000000002, 
+        "energy_lost": 148.47977
+    }, 
+    "60": {
+        "final_energy": 296290.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "61": {
+        "final_energy": 295680.0, 
+        "elec_stop": 0.13788, 
+        "energy_lost": 143.44006999999999
+    }, 
+    "62": {
+        "final_energy": 295920.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "259": {
+        "final_energy": 296020.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "64": {
+        "final_energy": 297250.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "65": {
+        "final_energy": 297360.0, 
+        "elec_stop": 0.20678199999999999, 
+        "energy_lost": 145.64646999999999
+    }, 
+    "66": {
+        "final_energy": 296720.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "67": {
+        "final_energy": 296880.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "68": {
+        "final_energy": 296500.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "253": {
+        "final_energy": 296530.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "250": {
+        "final_energy": 296310.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "251": {
+        "final_energy": 296280.0, 
+        "elec_stop": 0.13788, 
+        "energy_lost": 143.44006999999999
+    }, 
+    "256": {
+        "final_energy": 296550.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "257": {
+        "final_energy": 296440.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "254": {
+        "final_energy": 296450.0, 
+        "elec_stop": 0.10336699999999999, 
+        "energy_lost": 3.07687
+    }, 
+    "255": {
+        "final_energy": 296170.0, 
+        "elec_stop": 0.10341500000000001, 
+        "energy_lost": 142.56960000000001
+    }, 
+    "499": {
+        "final_energy": 297480.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "157": {
+        "final_energy": 296610.0, 
+        "elec_stop": 0.034692000000000001, 
+        "energy_lost": 0.0076819821999999996
+    }, 
+    "156": {
+        "final_energy": 296130.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "939": {
+        "final_energy": 296780.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "731": {
+        "final_energy": 296770.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "730": {
+        "final_energy": 296130.0, 
+        "elec_stop": 0.20678199999999999, 
+        "energy_lost": 145.6464702822
+    }, 
+    "733": {
+        "final_energy": 296510.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "938": {
+        "final_energy": 296460.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "735": {
+        "final_energy": 296410.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "734": {
+        "final_energy": 296440.0, 
+        "elec_stop": 0.10359400000000001, 
+        "energy_lost": 2.2140819821999997
+    }, 
+    "508": {
+        "final_energy": 296150.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "736": {
+        "final_energy": 296800.0, 
+        "elec_stop": 0.10338900000000001, 
+        "energy_lost": 5.3536700000000002
+    }, 
+    "506": {
+        "final_energy": 297330.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "738": {
+        "final_energy": 296270.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "504": {
+        "final_energy": 296800.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "505": {
+        "final_energy": 296560.0, 
+        "elec_stop": 0.17230599999999999, 
+        "energy_lost": 142.63367
+    }, 
+    "502": {
+        "final_energy": 296540.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "503": {
+        "final_energy": 296600.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "500": {
+        "final_energy": 296590.0, 
+        "elec_stop": 0.13786000000000001, 
+        "energy_lost": 142.63367
+    }, 
+    "501": {
+        "final_energy": 296100.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "630": {
+        "final_energy": 296600.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "631": {
+        "final_energy": 296780.0, 
+        "elec_stop": 0.13783499999999999, 
+        "energy_lost": 5.3536700000000002
+    }, 
+    "632": {
+        "final_energy": 296430.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "633": {
+        "final_energy": 296690.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "469": {
+        "final_energy": 295710.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "468": {
+        "final_energy": 296530.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "636": {
+        "final_energy": 296640.0, 
+        "elec_stop": 0.20721900000000001, 
+        "energy_lost": 20.568351982200003
+    }, 
+    "637": {
+        "final_energy": 296990.0, 
+        "elec_stop": 0.034471000000000002, 
+        "energy_lost": 137.28
+    }, 
+    "465": {
+        "final_energy": 296370.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "464": {
+        "final_energy": 296440.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "467": {
+        "final_energy": 296320.0, 
+        "elec_stop": 0.17230599999999999, 
+        "energy_lost": 142.63367
+    }, 
+    "466": {
+        "final_energy": 295850.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "461": {
+        "final_energy": 296470.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "900": {
+        "final_energy": 296680.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "463": {
+        "final_energy": 297310.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "462": {
+        "final_energy": 296420.0, 
+        "elec_stop": 0.034456000000000001, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "901": {
+        "final_energy": 296620.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "168": {
+        "final_energy": 296830.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "169": {
+        "final_energy": 296600.0, 
+        "elec_stop": 0.17230599999999999, 
+        "energy_lost": 142.63367
+    }, 
+    "164": {
+        "final_energy": 296810.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "165": {
+        "final_energy": 296850.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "166": {
+        "final_energy": 296530.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "167": {
+        "final_energy": 296240.0, 
+        "elec_stop": 0.17230599999999999, 
+        "energy_lost": 142.63367
+    }, 
+    "160": {
+        "final_energy": 295690.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "161": {
+        "final_energy": 296730.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "162": {
+        "final_energy": 296330.0, 
+        "elec_stop": 0.068939, 
+        "energy_lost": 139.55680000000001
+    }, 
+    "163": {
+        "final_energy": 297150.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "964": {
+        "final_energy": 296830.0, 
+        "elec_stop": 0.10341500000000001, 
+        "energy_lost": 142.56960000000001
+    }, 
+    "965": {
+        "final_energy": 296310.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "966": {
+        "final_energy": 297180.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "967": {
+        "final_energy": 296260.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "960": {
+        "final_energy": 296090.0, 
+        "elec_stop": 0.034692000000000001, 
+        "energy_lost": 0.0076816999999999996
+    }, 
+    "961": {
+        "final_energy": 296680.0, 
+        "elec_stop": 0.13783499999999999, 
+        "energy_lost": 5.3536702821999995
+    }, 
+    "962": {
+        "final_energy": 296270.0, 
+        "elec_stop": 0.13793, 
+        "energy_lost": 145.33250000000001
+    }, 
+    "963": {
+        "final_energy": 296070.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "783": {
+        "final_energy": 296450.0, 
+        "elec_stop": 0.034465000000000003, 
+        "energy_lost": 0.87046999999999997
+    }, 
+    "968": {
+        "final_energy": 296830.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "969": {
+        "final_energy": 296310.0, 
+        "elec_stop": 0.31107400000000007, 
+        "energy_lost": 161.7397506822
+    }, 
+    "936": {
+        "final_energy": 296880.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "935": {
+        "final_energy": 296310.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "934": {
+        "final_energy": 296320.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "908": {
+        "final_energy": 296550.0, 
+        "elec_stop": 0.24126599999999998, 
+        "energy_lost": 148.96077
+    }, 
+    "909": {
+        "final_energy": 296630.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "722": {
+        "final_energy": 297120.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "426": {
+        "final_energy": 296880.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "878": {
+        "final_energy": 296520.0, 
+        "elec_stop": 0.034465000000000003, 
+        "energy_lost": 0.87046999999999997
+    }, 
+    "879": {
+        "final_energy": 297110.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "876": {
+        "final_energy": 295930.0, 
+        "elec_stop": 0.10336699999999999, 
+        "energy_lost": 3.07687
+    }, 
+    "877": {
+        "final_energy": 296080.0, 
+        "elec_stop": 0.068939, 
+        "energy_lost": 139.55680000000001
+    }, 
+    "874": {
+        "final_energy": 295770.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "875": {
+        "final_energy": 296790.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "872": {
+        "final_energy": 296280.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "873": {
+        "final_energy": 296990.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "870": {
+        "final_energy": 296820.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "871": {
+        "final_energy": 296190.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "9": {
+        "final_energy": 296610.0, 
+        "elec_stop": 0.068932999999999994, 
+        "energy_lost": 3.1472700000000002
+    }, 
+    "890": {
+        "final_energy": 296170.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "891": {
+        "final_energy": 296750.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "892": {
+        "final_energy": 296490.0, 
+        "elec_stop": 0.13783499999999999, 
+        "energy_lost": 5.3536702821999995
+    }, 
+    "893": {
+        "final_energy": 295920.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "894": {
+        "final_energy": 296380.0, 
+        "elec_stop": 0.06892100000000001, 
+        "energy_lost": 3.07687
+    }, 
+    "647": {
+        "final_energy": 296310.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "896": {
+        "final_energy": 296640.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "897": {
+        "final_energy": 296850.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "898": {
+        "final_energy": 295930.0, 
+        "elec_stop": 0.10338900000000001, 
+        "energy_lost": 5.3536700000000002
+    }, 
+    "899": {
+        "final_energy": 296740.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "646": {
+        "final_energy": 296650.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "649": {
+        "final_energy": 296800.0, 
+        "elec_stop": 0.034465000000000003, 
+        "energy_lost": 0.87046999999999997
+    }, 
+    "648": {
+        "final_energy": 296270.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "357": {
+        "final_energy": 296110.0, 
+        "elec_stop": 0.068932999999999994, 
+        "energy_lost": 3.1472700000000002
+    }, 
+    "356": {
+        "final_energy": 296330.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "809": {
+        "final_energy": 297350.0, 
+        "elec_stop": 0.034465000000000003, 
+        "energy_lost": 0.87046999999999997
+    }, 
+    "808": {
+        "final_energy": 296120.0, 
+        "elec_stop": 0.034445999999999997, 
+        "energy_lost": 2.8220000000000003e-07
+    }, 
+    "353": {
+        "final_energy": 297040.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 2.8220000000000003e-07
+    }, 
+    "352": {
+        "final_energy": 296240.0, 
+        "elec_stop": 0.10336699999999999, 
+        "energy_lost": 3.07687
+    }, 
+    "351": {
+        "final_energy": 296490.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "350": {
+        "final_energy": 296350.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "803": {
+        "final_energy": 297140.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 2.8220000000000003e-07
+    }, 
+    "802": {
+        "final_energy": 296360.0, 
+        "elec_stop": 0.034445999999999997, 
+        "energy_lost": 0.0
+    }, 
+    "801": {
+        "final_energy": 296350.0, 
+        "elec_stop": 0.20682, 
+        "energy_lost": 148.96077
+    }, 
+    "800": {
+        "final_energy": 296030.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "807": {
+        "final_energy": 297200.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "806": {
+        "final_energy": 296200.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "805": {
+        "final_energy": 296070.0, 
+        "elec_stop": 0.068947000000000008, 
+        "energy_lost": 140.2928
+    }, 
+    "804": {
+        "final_energy": 297130.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "216": {
+        "final_energy": 296950.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "217": {
+        "final_energy": 296350.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "768": {
+        "final_energy": 296740.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "769": {
+        "final_energy": 296900.0, 
+        "elec_stop": 0.20682, 
+        "energy_lost": 148.96077
+    }, 
+    "212": {
+        "final_energy": 297000.0, 
+        "elec_stop": 0.069384000000000001, 
+        "energy_lost": 15.2146817
+    }, 
+    "213": {
+        "final_energy": 296810.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 2.8220000000000003e-07
+    }, 
+    "210": {
+        "final_energy": 295610.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "211": {
+        "final_energy": 296030.0, 
+        "elec_stop": 0.034692000000000001, 
+        "energy_lost": 0.0076816999999999996
+    }, 
+    "762": {
+        "final_energy": 296510.0, 
+        "elec_stop": 0.034445999999999997, 
+        "energy_lost": 2.8220000000000003e-07
+    }, 
+    "763": {
+        "final_energy": 296730.0, 
+        "elec_stop": 0.10338900000000001, 
+        "energy_lost": 5.3536700000000002
+    }, 
+    "760": {
+        "final_energy": 296990.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "761": {
+        "final_energy": 296660.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "766": {
+        "final_energy": 296450.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "767": {
+        "final_energy": 297000.0, 
+        "elec_stop": 0.069138000000000005, 
+        "energy_lost": 0.0076819821999999996
+    }, 
+    "764": {
+        "final_energy": 296010.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "765": {
+        "final_energy": 296890.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "40": {
+        "final_energy": 297030.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "41": {
+        "final_energy": 296410.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "final_energy_loss_mean": 296572.65000000002, 
+    "289": {
+        "final_energy": 296550.0, 
+        "elec_stop": 0.06892100000000001, 
+        "energy_lost": 3.07687
+    }, 
+    "288": {
+        "final_energy": 296540.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "4": {
+        "final_energy": 295810.0, 
+        "elec_stop": 0.10383000000000001, 
+        "energy_lost": 15.2146819822
+    }, 
+    "281": {
+        "final_energy": 296350.0, 
+        "elec_stop": 0.13786000000000001, 
+        "energy_lost": 142.63367
+    }, 
+    "280": {
+        "final_energy": 297160.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "283": {
+        "final_energy": 296840.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "282": {
+        "final_energy": 296300.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "285": {
+        "final_energy": 296920.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "284": {
+        "final_energy": 296890.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "287": {
+        "final_energy": 296470.0, 
+        "elec_stop": 0.10336699999999999, 
+        "energy_lost": 3.07687
+    }, 
+    "286": {
+        "final_energy": 296770.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "678": {
+        "final_energy": 296820.0, 
+        "elec_stop": 0.034456000000000001, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "679": {
+        "final_energy": 296970.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "674": {
+        "final_energy": 295980.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "675": {
+        "final_energy": 296310.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "676": {
+        "final_energy": 297140.0, 
+        "elec_stop": 0.034445999999999997, 
+        "energy_lost": 0.0
+    }, 
+    "677": {
+        "final_energy": 295740.0, 
+        "elec_stop": 0.10338900000000001, 
+        "energy_lost": 5.3536700000000002
+    }, 
+    "670": {
+        "final_energy": 295860.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "671": {
+        "final_energy": 297420.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "672": {
+        "final_energy": 296690.0, 
+        "elec_stop": 0.20678199999999999, 
+        "energy_lost": 145.6464702822
+    }, 
+    "673": {
+        "final_energy": 296910.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "263": {
+        "final_energy": 296380.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "262": {
+        "final_energy": 296410.0, 
+        "elec_stop": 0.034445999999999997, 
+        "energy_lost": 2.8220000000000003e-07
+    }, 
+    "261": {
+        "final_energy": 296850.0, 
+        "elec_stop": 0.06892100000000001, 
+        "energy_lost": 3.07687
+    }, 
+    "260": {
+        "final_energy": 296820.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "267": {
+        "final_energy": 296230.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "266": {
+        "final_energy": 296020.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "265": {
+        "final_energy": 297040.0, 
+        "elec_stop": 0.20682, 
+        "energy_lost": 148.96077
+    }, 
+    "264": {
+        "final_energy": 296780.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "269": {
+        "final_energy": 296640.0, 
+        "elec_stop": 0.17252700000000001, 
+        "energy_lost": 5.3613519822000004
+    }, 
+    "268": {
+        "final_energy": 296570.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "59": {
+        "final_energy": 296710.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "58": {
+        "final_energy": 296740.0, 
+        "elec_stop": 0.06892100000000001, 
+        "energy_lost": 3.07687
+    }, 
+    "55": {
+        "final_energy": 296270.0, 
+        "elec_stop": 0.034467999999999999, 
+        "energy_lost": 2.2768000000000002
+    }, 
+    "54": {
+        "final_energy": 296720.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "57": {
+        "final_energy": 296090.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "56": {
+        "final_energy": 296330.0, 
+        "elec_stop": 0.034465000000000003, 
+        "energy_lost": 0.87046999999999997
+    }, 
+    "51": {
+        "final_energy": 296500.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "258": {
+        "final_energy": 296500.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "53": {
+        "final_energy": 296090.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "52": {
+        "final_energy": 295790.0, 
+        "elec_stop": 0.034456000000000001, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "537": {
+        "final_energy": 297230.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "536": {
+        "final_energy": 296760.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "535": {
+        "final_energy": 297350.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "63": {
+        "final_energy": 295860.0, 
+        "elec_stop": 0.034465000000000003, 
+        "energy_lost": 0.87046999999999997
+    }, 
+    "533": {
+        "final_energy": 296190.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "532": {
+        "final_energy": 296060.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "531": {
+        "final_energy": 296950.0, 
+        "elec_stop": 0.17252700000000001, 
+        "energy_lost": 5.3613519822000004
+    }, 
+    "530": {
+        "final_energy": 296790.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "152": {
+        "final_energy": 296280.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "539": {
+        "final_energy": 296040.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "538": {
+        "final_energy": 296850.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2064002821999997
+    }, 
+    "775": {
+        "final_energy": 296550.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "988": {
+        "final_energy": 297110.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "989": {
+        "final_energy": 296950.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "774": {
+        "final_energy": 295930.0, 
+        "elec_stop": 0.10359400000000001, 
+        "energy_lost": 2.2140819821999997
+    }, 
+    "982": {
+        "final_energy": 296760.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "983": {
+        "final_energy": 296720.0, 
+        "elec_stop": 0.13852200000000001, 
+        "energy_lost": 15.2174806822
+    }, 
+    "980": {
+        "final_energy": 296770.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "981": {
+        "final_energy": 296840.0, 
+        "elec_stop": 0.034445999999999997, 
+        "energy_lost": 2.8220000000000003e-07
+    }, 
+    "986": {
+        "final_energy": 296790.0, 
+        "elec_stop": 0.13786000000000001, 
+        "energy_lost": 142.63367
+    }, 
+    "987": {
+        "final_energy": 296420.0, 
+        "elec_stop": 0.068932999999999994, 
+        "energy_lost": 3.1472700000000002
+    }, 
+    "984": {
+        "final_energy": 297040.0, 
+        "elec_stop": 0.10336699999999999, 
+        "energy_lost": 3.07687
+    }, 
+    "50": {
+        "final_energy": 295850.0, 
+        "elec_stop": 0.06892100000000001, 
+        "energy_lost": 3.07687
+    }, 
+    "115": {
+        "final_energy": 296770.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "252": {
+        "final_energy": 296620.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "117": {
+        "final_energy": 296090.0, 
+        "elec_stop": 0.10341500000000001, 
+        "energy_lost": 142.56960000000001
+    }, 
+    "776": {
+        "final_energy": 297110.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "111": {
+        "final_energy": 296410.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "110": {
+        "final_energy": 296860.0, 
+        "elec_stop": 0.069384000000000001, 
+        "energy_lost": 15.2146819822
+    }, 
+    "113": {
+        "final_energy": 296080.0, 
+        "elec_stop": 0.13783499999999999, 
+        "energy_lost": 5.3536700000000002
+    }, 
+    "69": {
+        "final_energy": 296080.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "771": {
+        "final_energy": 296580.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "119": {
+        "final_energy": 296900.0, 
+        "elec_stop": 0.27576499999999998, 
+        "energy_lost": 150.68617
+    }, 
+    "118": {
+        "final_energy": 296350.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "770": {
+        "final_energy": 297310.0, 
+        "elec_stop": 0.034467999999999999, 
+        "energy_lost": 2.2768000000000002
+    }, 
+    "773": {
+        "final_energy": 297170.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "772": {
+        "final_energy": 296880.0, 
+        "elec_stop": 0.10338900000000001, 
+        "energy_lost": 5.3536700000000002
+    }, 
+    "429": {
+        "final_energy": 296480.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "428": {
+        "final_energy": 296380.0, 
+        "elec_stop": 0.20678199999999999, 
+        "energy_lost": 145.64646999999999
+    }, 
+    "534": {
+        "final_energy": 296580.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "919": {
+        "final_energy": 296160.0, 
+        "elec_stop": 0.20678199999999999, 
+        "energy_lost": 145.64646999999999
+    }, 
+    "918": {
+        "final_energy": 296210.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "915": {
+        "final_energy": 296230.0, 
+        "elec_stop": 0.06892100000000001, 
+        "energy_lost": 3.07687
+    }, 
+    "914": {
+        "final_energy": 296420.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "917": {
+        "final_energy": 296820.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "916": {
+        "final_energy": 296320.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "911": {
+        "final_energy": 296380.0, 
+        "elec_stop": 0.17230599999999999, 
+        "energy_lost": 142.63367
+    }, 
+    "910": {
+        "final_energy": 296640.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "913": {
+        "final_energy": 296030.0, 
+        "elec_stop": 0.31065000000000004, 
+        "energy_lost": 164.17545198220003
+    }, 
+    "912": {
+        "final_energy": 296310.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "308": {
+        "final_energy": 296080.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "309": {
+        "final_energy": 296610.0, 
+        "elec_stop": 0.034445999999999997, 
+        "energy_lost": 0.0
+    }, 
+    "855": {
+        "final_energy": 296510.0, 
+        "elec_stop": 0.10338900000000001, 
+        "energy_lost": 5.3536700000000002
+    }, 
+    "300": {
+        "final_energy": 296700.0, 
+        "elec_stop": 0.034471000000000002, 
+        "energy_lost": 137.28
+    }, 
+    "301": {
+        "final_energy": 296230.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "302": {
+        "final_energy": 296980.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "303": {
+        "final_energy": 296270.0, 
+        "elec_stop": 0.10383000000000001, 
+        "energy_lost": 15.2146819822
+    }, 
+    "304": {
+        "final_energy": 296950.0, 
+        "elec_stop": 0.06892100000000001, 
+        "energy_lost": 3.07687
+    }, 
+    "305": {
+        "final_energy": 296770.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "306": {
+        "final_energy": 297450.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "307": {
+        "final_energy": 296470.0, 
+        "elec_stop": 0.034465000000000003, 
+        "energy_lost": 0.87046999999999997
+    }, 
+    "895": {
+        "final_energy": 296740.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "825": {
+        "final_energy": 296210.0, 
+        "elec_stop": 0.068932999999999994, 
+        "energy_lost": 3.1472700000000002
+    }, 
+    "824": {
+        "final_energy": 296510.0, 
+        "elec_stop": 0.034471000000000002, 
+        "energy_lost": 137.28
+    }, 
+    "827": {
+        "final_energy": 296250.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "847": {
+        "final_energy": 297260.0, 
+        "elec_stop": 0.10336699999999999, 
+        "energy_lost": 3.0768702821999998
+    }, 
+    "846": {
+        "final_energy": 296520.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "845": {
+        "final_energy": 295920.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "844": {
+        "final_energy": 295980.0, 
+        "elec_stop": 0.13783499999999999, 
+        "energy_lost": 5.3536700000000002
+    }, 
+    "843": {
+        "final_energy": 296890.0, 
+        "elec_stop": 0.034465000000000003, 
+        "energy_lost": 0.87046999999999997
+    }, 
+    "842": {
+        "final_energy": 296080.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "841": {
+        "final_energy": 296780.0, 
+        "elec_stop": 0.20682, 
+        "energy_lost": 148.96077
+    }, 
+    "840": {
+        "final_energy": 297060.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "821": {
+        "final_energy": 297150.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "853": {
+        "final_energy": 296620.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "849": {
+        "final_energy": 296540.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2064002821999997
+    }, 
+    "848": {
+        "final_energy": 297560.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "823": {
+        "final_energy": 296320.0, 
+        "elec_stop": 0.06892100000000001, 
+        "energy_lost": 3.07687
+    }, 
+    "822": {
+        "final_energy": 296920.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "240": {
+        "final_energy": 295770.0, 
+        "elec_stop": 0.06892100000000001, 
+        "energy_lost": 3.07687
+    }, 
+    "390": {
+        "final_energy": 296400.0, 
+        "elec_stop": 0.13828600000000002, 
+        "energy_lost": 17.4210819822
+    }, 
+    "732": {
+        "final_energy": 296960.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "753": {
+        "final_energy": 296470.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "752": {
+        "final_energy": 296570.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "751": {
+        "final_energy": 296330.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "750": {
+        "final_energy": 297030.0, 
+        "elec_stop": 0.13788, 
+        "energy_lost": 143.44006999999999
+    }, 
+    "757": {
+        "final_energy": 296930.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "756": {
+        "final_energy": 295350.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "755": {
+        "final_energy": 297270.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "754": {
+        "final_energy": 296820.0, 
+        "elec_stop": 0.13789899999999999, 
+        "energy_lost": 145.88390000000001
+    }, 
+    "560": {
+        "final_energy": 296980.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "561": {
+        "final_energy": 296730.0, 
+        "elec_stop": 0.13805900000000002, 
+        "energy_lost": 3.0845519821999998
+    }, 
+    "759": {
+        "final_energy": 296490.0, 
+        "elec_stop": 0.13788, 
+        "energy_lost": 143.44006999999999
+    }, 
+    "758": {
+        "final_energy": 297140.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "564": {
+        "final_energy": 296570.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "565": {
+        "final_energy": 295770.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "566": {
+        "final_energy": 297100.0, 
+        "elec_stop": 0.069138000000000005, 
+        "energy_lost": 0.0076819821999999996
+    }, 
+    "701": {
+        "final_energy": 296370.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "739": {
+        "final_energy": 295390.0, 
+        "elec_stop": 0.10341500000000001, 
+        "energy_lost": 142.56960000000001
+    }, 
+    "229": {
+        "final_energy": 296690.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "507": {
+        "final_energy": 296060.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "227": {
+        "final_energy": 296700.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "226": {
+        "final_energy": 295990.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "225": {
+        "final_energy": 297020.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "985": {
+        "final_energy": 296360.0, 
+        "elec_stop": 0.034467999999999999, 
+        "energy_lost": 2.2768000000000002
+    }, 
+    "223": {
+        "final_energy": 297040.0, 
+        "elec_stop": 0.13786000000000001, 
+        "energy_lost": 142.63367
+    }, 
+    "222": {
+        "final_energy": 296850.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "221": {
+        "final_energy": 297130.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "220": {
+        "final_energy": 296970.0, 
+        "elec_stop": 0.068932999999999994, 
+        "energy_lost": 3.1472700000000002
+    }, 
+    "114": {
+        "final_energy": 296320.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "391": {
+        "final_energy": 296890.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "726": {
+        "final_energy": 296240.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "727": {
+        "final_energy": 296170.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 2.8220000000000003e-07
+    }, 
+    "724": {
+        "final_energy": 297140.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "725": {
+        "final_energy": 296230.0, 
+        "elec_stop": 0.034467999999999999, 
+        "energy_lost": 2.2768000000000002
+    }, 
+    "568": {
+        "final_energy": 296380.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "723": {
+        "final_energy": 296070.0, 
+        "elec_stop": 0.13783499999999999, 
+        "energy_lost": 5.3536702821999995
+    }, 
+    "720": {
+        "final_energy": 296230.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "721": {
+        "final_energy": 296530.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "728": {
+        "final_energy": 296380.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "729": {
+        "final_energy": 296060.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "605": {
+        "final_energy": 297090.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "604": {
+        "final_energy": 296790.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "607": {
+        "final_energy": 296240.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "606": {
+        "final_energy": 296870.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "601": {
+        "final_energy": 296520.0, 
+        "elec_stop": 0.20682, 
+        "energy_lost": 148.96077
+    }, 
+    "600": {
+        "final_energy": 297270.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "603": {
+        "final_energy": 295770.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "602": {
+        "final_energy": 296500.0, 
+        "elec_stop": 0.06892100000000001, 
+        "energy_lost": 3.07687
+    }, 
+    "159": {
+        "final_energy": 297190.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 2.8220000000000003e-07
+    }, 
+    "158": {
+        "final_energy": 296200.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "112": {
+        "final_energy": 297090.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "609": {
+        "final_energy": 296770.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "608": {
+        "final_energy": 296630.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "976": {
+        "final_energy": 296910.0, 
+        "elec_stop": 0.103404, 
+        "energy_lost": 140.42726999999999
+    }, 
+    "634": {
+        "final_energy": 296340.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "399": {
+        "final_energy": 296490.0, 
+        "elec_stop": 0.17233600000000002, 
+        "energy_lost": 145.64646999999999
+    }, 
+    "635": {
+        "final_energy": 296660.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "959": {
+        "final_energy": 297450.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "958": {
+        "final_energy": 296240.0, 
+        "elec_stop": 0.069138000000000005, 
+        "energy_lost": 0.0076819821999999996
+    }, 
+    "398": {
+        "final_energy": 296540.0, 
+        "elec_stop": 0.10338900000000001, 
+        "energy_lost": 5.3536700000000002
+    }, 
+    "48": {
+        "final_energy": 296500.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "49": {
+        "final_energy": 296950.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "951": {
+        "final_energy": 296610.0, 
+        "elec_stop": 0.06892100000000001, 
+        "energy_lost": 3.07687
+    }, 
+    "950": {
+        "final_energy": 296100.0, 
+        "elec_stop": 0.31027200000000005, 
+        "energy_lost": 152.39587028220001
+    }, 
+    "953": {
+        "final_energy": 296170.0, 
+        "elec_stop": 0.034471000000000002, 
+        "energy_lost": 137.28
+    }, 
+    "952": {
+        "final_energy": 296100.0, 
+        "elec_stop": 0.13783499999999999, 
+        "energy_lost": 5.3536702821999995
+    }, 
+    "42": {
+        "final_energy": 295860.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "954": {
+        "final_energy": 296670.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "957": {
+        "final_energy": 296720.0, 
+        "elec_stop": 0.103404, 
+        "energy_lost": 140.42726999999999
+    }, 
+    "956": {
+        "final_energy": 295650.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "638": {
+        "final_energy": 297040.0, 
+        "elec_stop": 0.31045699999999998, 
+        "energy_lost": 150.69385198220002
+    }, 
+    "5": {
+        "final_energy": 296540.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "639": {
+        "final_energy": 297570.0, 
+        "elec_stop": 0.034465000000000003, 
+        "energy_lost": 0.87046999999999997
+    }, 
+    "460": {
+        "final_energy": 296730.0, 
+        "elec_stop": 0.034456000000000001, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "489": {
+        "final_energy": 296340.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "488": {
+        "final_energy": 295790.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2064002821999997
+    }, 
+    "487": {
+        "final_energy": 296340.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "486": {
+        "final_energy": 296690.0, 
+        "elec_stop": 0.034456000000000001, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "485": {
+        "final_energy": 296530.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "484": {
+        "final_energy": 297280.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "483": {
+        "final_energy": 296660.0, 
+        "elec_stop": 0.034445999999999997, 
+        "energy_lost": 2.8220000000000003e-07
+    }, 
+    "482": {
+        "final_energy": 297560.0, 
+        "elec_stop": 0.034456000000000001, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "481": {
+        "final_energy": 296020.0, 
+        "elec_stop": 0.103404, 
+        "energy_lost": 140.42726999999999
+    }, 
+    "480": {
+        "final_energy": 297090.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "509": {
+        "final_energy": 296160.0, 
+        "elec_stop": 0.068932999999999994, 
+        "energy_lost": 3.1472700000000002
+    }, 
+    "955": {
+        "final_energy": 296520.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2064002821999997
+    }, 
+    "472": {
+        "final_energy": 296180.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "473": {
+        "final_energy": 296250.0, 
+        "elec_stop": 0.20686300000000002, 
+        "energy_lost": 148.47977
+    }, 
+    "470": {
+        "final_energy": 296190.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "471": {
+        "final_energy": 296350.0, 
+        "elec_stop": 0.06892100000000001, 
+        "energy_lost": 3.07687
+    }, 
+    "476": {
+        "final_energy": 297630.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "477": {
+        "final_energy": 296090.0, 
+        "elec_stop": 0.068901999999999991, 
+        "energy_lost": 2.2063999999999999
+    }, 
+    "474": {
+        "final_energy": 296520.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "475": {
+        "final_energy": 297230.0, 
+        "elec_stop": 0.0, 
+        "energy_lost": 0.0
+    }, 
+    "478": {
+        "final_energy": 297440.0, 
+        "elec_stop": 0.034445999999999997, 
+        "energy_lost": 2.8220000000000003e-07
+    }, 
+    "479": {
+        "final_energy": 296880.0, 
+        "elec_stop": 0.17233600000000002, 
+        "energy_lost": 145.64646999999999
+    }
+}
