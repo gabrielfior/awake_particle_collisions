@@ -1,9 +1,8 @@
 # Master Thesis - Gabriel Fior
-Link to pdf
 
 Master thesis, developed at the Max-Planck-Institute for Physics. Investigated proton ionization of rubidium for the AWAKE collaboration using Geant4. 
 
-This repository includes different files used for the simulation and data processing. 
+This repository includes different files used for the simulation and data processing. More information can be found on https://zenodo.org/badge/latestdoi/89217483 for 
 
 ## Getting Started
 
